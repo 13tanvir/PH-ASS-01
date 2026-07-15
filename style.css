@@ -100,3 +100,45 @@ nav{
 .btn:hover{
     background:#1d4ed8;
 }
+
+
+
+/* hero section */
+
+.hero{
+    position:relative;
+}
+
+.hero img{
+    height:600px;
+    object-fit:cover;
+}
+
+.hero-content{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    text-align:center;
+    width:700px;
+}
+
+.hero-content h1{
+    font-size:70px;
+    margin-bottom:20px;
+}
+
+.hero-content em{
+    font-style:italic;
+}
+
+.hero-content p{
+    font-size:20px;
+    line-height:30px;
+    margin-bottom:35px;
+}
+
+.hero-btn{
+    padding:16px 35px;
+}
