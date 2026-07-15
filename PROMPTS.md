@@ -1,0 +1,1 @@
+I am creating a DevConf 2026 conference website for my first HTML and CSS assignment. I would like to add a Frequently Asked Questions (FAQ) section as an extra feature. Please generate beginner-friendly HTML content for an FAQ section with four common questions and answers related to a developer conference. Keep the content simple, clear, and suitable for a student project.
